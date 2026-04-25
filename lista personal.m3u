@@ -49,8 +49,7 @@ http://daleplaytv.vip:80//live/123MMM/654321/53474.ts
 #EXTINF:-1 group-title="🎬 Cocina", CANAL DE COCINA
 http://daleplaytv.vip:80//live/123MMM/654321/110241.ts
 
-#EXTINF:-1 group-title="🎬 Cocina", LOVE NATURE
-http://daleplaytv.vip:80//live/123MMM/654321/118747.ts
+#EXTINF:-1 group-title="🎬 Cocina", 
 
 
 
@@ -229,8 +228,8 @@ http://daleplaytv.vip:80//live/123MMM/654321/122959.ts
 #EXTINF:-1 group-title="📺 Entretenimiento", Canal de Casa
 http://daleplaytv.vip:80//live/123MMM/654321/110244.ts
 
-#EXTINF:-1 group-title="📺 Entretenimiento", 
-
+#EXTINF:-1 group-title="📺 Entretenimiento", Adult Swim
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/593
 
 
 ##################################
@@ -280,6 +279,9 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1155861
 
 #EXTINF:-1 group-title="🧒 Infantil", Discovery Kids
 https://tv.nousiptv.com:8443/Lopera77/872399/4072
+
+#EXTINF:-1 group-title="🧒 Infantil", ETC TV
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/65
 
 
 
@@ -359,9 +361,11 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1156060
 #EXTINF:-1 group-title="🎵 Música", That Rock
 https://tv.nousiptv.com:8443/Lopera77/872399/1116298
 
-#EXTINF:-1 group-title="🎵 Música",TV POP MUSIC∆
+#EXTINF:-1 group-title="🎵 Música", TV POP MUSIC∆
 http://daleplaytv.vip:80//live/123MMM/654321/93098.ts
 
+#EXTINF:-1 group-title="🎵 Música", HTV
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/54503
 
 
 
@@ -373,6 +377,12 @@ http://daleplaytv.vip:80//live/123MMM/654321/93098.ts
 
 #EXTINF:-1 group-title="📰 Noticias", 24 HORAS
 http://hestiahestia.quicksytes.com:2096/Davis22/0895216743/775875
+
+#EXTINF:-1 group-title="📰 Noticias", CNN Chile
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/684
+
+#EXTINF:-1 group-title="📰 Noticias", CNN en Español
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/681
 
 #EXTINF:-1 group-title="📰 Noticias", RT Español
 https://tv.nousiptv.com:8443/Lopera77/872399/1155802
