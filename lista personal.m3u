@@ -244,8 +244,8 @@ http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/236361
 #EXTINF:-1 group-title="📺 Entretenimiento", Adult Swim
 http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/593
 
-#EXTINF:-1 group-title="📺 Entretenimiento", Dreamworks HD
-http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/236413
+#EXTINF:-1 group-title="📺 Entretenimiento", CGTN
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/59647
 
 
 
@@ -273,11 +273,15 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1145137
 # 🧒 INFANTIL
 ##################################
 
-#EXTINF:-1 group-title="🧒 Infantil", Cartoon Network
-http://daleplaytv.vip:80//live/123MMM/654321/132707.ts
 
-#EXTINF:-1 group-title="🧒 Infantil", Disney JR
-http://daleplaytv.vip:80//live/123MMM/654321/132699.ts
+#EXTINF:-1 group-title="🧒 Infantil", Dreamworks HD
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/236413
+
+#EXTINF:-1 group-title="🧒 Infantil", Cartoon Network
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/374
+
+#EXTINF:-1 group-title="🧒 Infantil", Disney Channel infantil
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/59539
 
 #EXTINF:-1 group-title="🧒 Infantil", Disney JR
 https://tv.nousiptv.com:8443/Lopera77/872399/4111
@@ -286,7 +290,7 @@ https://tv.nousiptv.com:8443/Lopera77/872399/4111
 https://tv.nousiptv.com:8443/Lopera77/872399/4058
 
 #EXTINF:-1 group-title="🧒 Infantil", Nick Jr
-http://daleplaytv.vip:80//live/123MMM/654321/132709.ts
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/394
 
 #EXTINF:-1 group-title="🧒 Infantil", Cartoonito
 https://tv.nousiptv.com:8443/Lopera77/872399/4061
@@ -356,6 +360,8 @@ http://daleplaytv.vip:80//live/123MMM/654321/118747.ts
 
 
 
+
+
 ##################################
 # 🎵 MÚSICA
 ##################################
@@ -364,7 +370,7 @@ http://daleplaytv.vip:80//live/123MMM/654321/118747.ts
 https://tv.nousiptv.com:8443/Lopera77/872399/7823
 
 #EXTINF:-1 group-title="🎵 Música", Telehit Musica
-http://daleplaytv.vip:80//live/123MMM/654321/317559.ts
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/24976
 
 #EXTINF:-1 group-title="🎵 Música", VH1
 https://tv.nousiptv.com:8443/Lopera77/872399/4133
@@ -378,8 +384,8 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1156060
 #EXTINF:-1 group-title="🎵 Música", That Rock
 https://tv.nousiptv.com:8443/Lopera77/872399/1116298
 
-#EXTINF:-1 group-title="🎵 Música", TV POP MUSIC∆
-http://daleplaytv.vip:80//live/123MMM/654321/93098.ts
+#EXTINF:-1 group-title="🎵 Música", BANDAMAX
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/47263
 
 #EXTINF:-1 group-title="🎵 Música", HTV
 http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/54503
@@ -393,7 +399,7 @@ http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/54503
 ##################################
 
 #EXTINF:-1 group-title="📰 Noticias", 24 HORAS
-http://hestiahestia.quicksytes.com:2096/Davis22/0895216743/775875
+http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/32
 
 #EXTINF:-1 group-title="📰 Noticias", CNN Chile
 http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/684
