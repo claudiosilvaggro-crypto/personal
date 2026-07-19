@@ -214,7 +214,7 @@ http://daleplaytv.vip:80//live/123MMM/654321/360894.ts
 http://daleplaytv.vip:80//live/123MMM/654321/1257.ts
 
 #EXTINF:-1 group-title="📺 Entretenimiento", A&E
-http://daleplaytv.vip:80//live/123MMM/654321/435979.ts
+http://190.108.80.138:8000/play/a07p/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento", TLNovelas
 http://daleplaytv.vip:80//live/123MMM/654321/360898.ts
@@ -247,7 +247,7 @@ http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/236361
 http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/593
 
 #EXTINF:-1 group-title="📺 Entretenimiento", CGTN
-http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/59647
+http://190.108.80.138:8000/play/a0ju/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento", Cnctv
 http://181.66.249.246:8000/play/a04w/index.m3u8
