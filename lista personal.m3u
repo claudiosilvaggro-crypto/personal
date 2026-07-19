@@ -249,6 +249,9 @@ http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/593
 #EXTINF:-1 group-title="📺 Entretenimiento", CGTN
 http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/59647
 
+#EXTINF:-1 group-title="📺 Entretenimiento", Cnctv
+http://181.66.249.246:8000/play/a04w/index.m3u8
+
 
 
 ##################################
