@@ -192,8 +192,8 @@ http://181.66.249.246:8000/play/a0ji/index.m3u8
 #EXTINF:-1 group-title="📺 Entretenimiento", Space
 http://daleplaytv.vip:80//live/123MMM/654321/1280.ts
 
-#EXTINF:-1 group-title="📺 Entretenimiento", HISPAN TV
-
+#EXTINF:-1 group-title="📺 Entretenimiento", MULTIPREMIER
+http://45.5.118.152:8000/play/a096/index.m3u8
 
 #EXTINF:-1 group-title="📺 Entretenimiento", Cinemax
 http://190.108.80.138:8000/play/a0hc/index.m3u8
@@ -304,7 +304,7 @@ http://190.108.80.138:8000/play/a0je/index.m3u8
 http://181.66.249.246:8000/play/a0k5/index.m3u8
 
 #EXTINF:-1 group-title="🧒 Infantil", Tooncast
-
+http://45.5.118.152:8000/play/a048/index.m3u8
 
 #EXTINF:-1 group-title="🧒 Infantil", Discovery Kids
 http://190.108.80.138:8000/play/a0jb/index.m3u8
@@ -376,31 +376,31 @@ http://190.108.80.138:8000/play/a0ix/index.m3u8
 ##################################
 
 #EXTINF:-1 group-title="🎵 Música", Telehit Musica Plus
-https://tv.nousiptv.com:8443/Lopera77/872399/7823
+http://45.5.118.152:8000/play/a08r/index.m3u8
 
 #EXTINF:-1 group-title="🎵 Música", Telehit Musica
 http://190.108.80.138:8000/play/a0gc/index.m3u8
 
 #EXTINF:-1 group-title="🎵 Música", VH1
-https://tv.nousiptv.com:8443/Lopera77/872399/4133
+
 
 #EXTINF:-1 group-title="🎵 Música", Stingray Concerts HD
 http://181.66.249.246:8000/play/a0hu/index.m3u8
 
 #EXTINF:-1 group-title="🎵 Música", Music Top
-https://tv.nousiptv.com:8443/Lopera77/872399/1156060
+
 
 #EXTINF:-1 group-title="🎵 Música", That Rock
-https://tv.nousiptv.com:8443/Lopera77/872399/1116298
+
 
 #EXTINF:-1 group-title="🎵 Música", BANDAMAX
-http://newultra.xyz:8080/Psstreamid@2*14/RK4SrLH54s/47263
+http://45.5.118.152:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 group-title="🎵 Música", HTV
 http://190.108.80.138:8000/play/a0hr/index.m3u8
 
 #EXTINF:-1 group-title="🎵 Música", Farra Music
-http://tv-max.online:80/AlejandroDosSantos/XwckYq9ePr/86732.ts
+
 
 
 
